@@ -38,8 +38,7 @@ I aspire to become proficient in the latest technologies and frameworks, constan
 ### ⚛️Frameworks
 
 ![react](https://img.shields.io/badge/react.js-61DAFB.svg?style=for-the-badge&logo=react&logoColor=black)
-![nextdotjs](https://img.shields.io/badge/next.js-000000.svg?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![nodedotjs](https://img.shields.io/badge/node.js-339933.svg?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 
 ### 📝Software
 
