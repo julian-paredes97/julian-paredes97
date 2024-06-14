@@ -23,7 +23,8 @@ Here are some ideas to get you started:
 
 <h1 align="left">🚀 About Me</h1>
 
-<p align="justify">I am a 27 year old girl living in Buenos Aires, Argentina. I am currently studying Web Design and Programming at the Da Vinci School. I have a background in veterinary studies, having worked and studied in that field for six years. However, my passion lies in frontend development with a keen interest in design. In 2022, I started my journey as a developer, focusing on expanding my skills in programming and pursuing a career in the tech industry. I aspire to become proficient in the latest technologies and frameworks, constantly staying updated with industry trends. Ultimately, my goal is to secure challenging projects or employment opportunities that allow me to utilize my programmingand design skills effectively, contributing to innovative anduser-friendly digital experiences.</p>
+<p align="justify">Graduated from the career of systems and computer engineering from the Pontificia Universidad Javeriana Cali, with emphasis in data engineering, video games and interactive systems. With a high sense of responsibility, honesty, punctuality and teamwork, I also have the ability to provide computational solutions to different problems that can be generated. My areas of interest are in database administration, process automation and especially in Frontend development.
+I aspire to become proficient in the latest technologies and frameworks, constantly staying updated with industry trends. Ultimately, my goal is to secure challenging projects or employment opportunities that allow me to utilize my programming skills effectively, contributing to innovative and user-friendly digital experiences.</p>
 
 <h1 align="left">🧠 Skills Showcase</h1>
 
