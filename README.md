@@ -34,7 +34,7 @@ I aspire to become proficient in the latest technologies and frameworks, constan
 ![JavaScript](https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-yellow?style=for-the-badge&logo=python&logoColor=white)
 ![C](https://img.shields.io/badge/-C-blue?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/-C++-blue?logo=cplusplus)
+![C++](https://img.shields.io/badge/-C++-blue?style=for-the-badge&logo=cplusplus&logoColor=white)
 
 ### ⚛️Frameworks
 
